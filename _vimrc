@@ -1,5 +1,6 @@
 " .vimrc
 "
+"
 " Smylers's .vimrc
 " http://www.stripey.com/vim/
 " 
