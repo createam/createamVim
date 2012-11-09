@@ -1,1 +1,2 @@
 Has proj1 notes
+Checkin the sparse checkout
