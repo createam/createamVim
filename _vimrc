@@ -1,7 +1,6 @@
 " .vimrc
 "
 " createam's vim configuration edited from the original from Smyler
-" createam's vim configuration edited from the original from Smyler
 "
 " Smylers's .vimrc
 " http://www.stripey.com/vim/
