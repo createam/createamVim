@@ -1,4 +1,5 @@
 " .vimrc
+"Added a line to test git checkin changes
 "
 " createam's vim configuration edited from the original from Smyler
 "
