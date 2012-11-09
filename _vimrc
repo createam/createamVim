@@ -1,6 +1,7 @@
 " .vimrc
 "
 " createam's vim configuration edited from the original from Smyler
+" Added line to check what happens when some other file is pushed using sparse checkout from a different working copy
 "
 " Smylers's .vimrc
 " http://www.stripey.com/vim/
